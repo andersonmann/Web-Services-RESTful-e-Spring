@@ -1,3 +1,6 @@
+/**
+ * 
+ */
 package com.algaworks.socialbooks.domain;
 
 import java.util.Date;
@@ -11,7 +14,10 @@ import javax.persistence.Transient;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
-
+/**
+ * @author amann
+ *
+ */
 @Entity
 public class Livro {
 

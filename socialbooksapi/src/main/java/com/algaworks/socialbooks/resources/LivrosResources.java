@@ -1,3 +1,6 @@
+/**
+ * 
+ */
 package com.algaworks.socialbooks.resources;
 
 import java.net.URI;
@@ -16,7 +19,10 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.algaworks.socialbooks.domain.Livro;
 import com.algaworks.socialbooks.repository.LivrosRepository;
-
+/**
+ * @author amann
+ *
+ */
 @RestController
 @RequestMapping("/livros")
 public class LivrosResources {

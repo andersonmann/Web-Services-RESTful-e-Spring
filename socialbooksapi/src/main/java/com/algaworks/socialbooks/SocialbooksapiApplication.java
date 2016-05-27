@@ -1,8 +1,14 @@
+/**
+ * 
+ */
 package com.algaworks.socialbooks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**
+ * @author amann
+ *
+ */
 @SpringBootApplication
 public class SocialbooksapiApplication {
 
